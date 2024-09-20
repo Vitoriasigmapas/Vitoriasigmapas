@@ -1,13 +1,13 @@
-👋 Hi, I’m @Vitoriasigmapas
 
-👀 Into geoprocessing
+Hi there! 👋
 
-🌱 Learning Python automation
+I’m a Brazilian geographer starting my journey in programming. I’m learning to use tools like Python and R for geoinformation projects.
 
-💞️ Open to projects for practice
+Interests:
 
-📫 Reach me on Instagram: @araujoovit1
+Spatial data analysis
 
-😄 Pronouns: she/her
+Geographic information visualization
 
-⚡ Curious about programming
+
+I’m open to collaborations and knowledge exchange. Let’s connect!
